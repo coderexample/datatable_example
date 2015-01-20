@@ -1,2 +1,2 @@
 # datatable_example
-Datatable examples for coderexample.com
+Datatable examples for http://coderexample.com
